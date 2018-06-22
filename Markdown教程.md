@@ -25,4 +25,39 @@
 [百度](http://www.baidu.com)
 
 ### 6. 粗体
-**简单测试下**
+**粗体**
+
+### 7. 斜体
+*斜体*
+
+### 8. 标题和粗体结合
+###**这是粗体标题**
+###*这是斜体标题*
+###***这是粗斜体混合标题***
+
+### 9. 表格
+|TableHeaderLeft|TableHeaderCenter|TableHeaderRight|
+|left|center|right|
+|left1|center1|right1|
+
+### 10. 区块引用
+> 区块引用
+>> 嵌套引用
+>>> 再次嵌套引用
+
+### 11. 代码格式
+''' 
+class    
+{  
+  public static void main(String[] args)   
+  {  
+    System.out.println("Hello World!");  
+  }  
+}  
+'''  
+
+
+
+
+
+
