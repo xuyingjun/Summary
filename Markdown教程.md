@@ -37,6 +37,7 @@
 
 ### 9. 表格
 |TableHeaderLeft|TableHeaderCenter|TableHeaderRight|
+--- |--- |--- |
 |left|center|right|
 |left1|center1|right1|
 
