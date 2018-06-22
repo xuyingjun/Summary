@@ -47,14 +47,16 @@
 >>> 再次嵌套引用
 
 ### 11. 代码格式
-```     
-  #include <iostrem>  
-  using namespace std;  
-  int main(int argc, char **argv)  
+```
+  #include <iostream>
+  using namespace std;
+  int main(int arc,char **argv)
   {
-    cout << "hello,world!";
+    cout<<"Hello, world!";
   }
-```     
+```
+
+
 
 ### 12. 插入普通字符
 \\ 反斜线
