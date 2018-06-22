@@ -47,17 +47,11 @@
 >>> 再次嵌套引用
 
 ### 11. 代码格式
-  ''' 
-class    
-{  
-  public static void main(String[] args)   
-  {  
-    System.out.println("Hello World!");  
-  }  
-}  
-'''
+```
+printf("Hello MarkDown!")
+```
 
-### 插入普通字符
+### 12. 插入普通字符
 \\ 反斜线
 \` 反引号
 \* 星号
@@ -71,6 +65,12 @@ class
 \. 英文句点
 \! 感叹号
 
+### 13. 引用
+[我的博客][1]  
+![图片][2]  
+
+[1]:https://mingdaa.github.io/  
+[2]:http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg
 
 
 
