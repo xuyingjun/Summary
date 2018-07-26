@@ -1,0 +1,45 @@
+.\objects\subroutine.o: ..\protocol\subroutine.c
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\subroutine.o: ..\CM3\CoreSupport\core_cm3.h
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_conf.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_adc.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_bkp.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_can.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_cec.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_crc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dac.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_exti.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_flash.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_iwdg.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_pwr.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_rtc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_sdio.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_wwdg.h
+.\objects\subroutine.o: ..\Libraries\inc\misc.h
+.\objects\subroutine.o: ..\protocol\runtimedata.h
+.\objects\subroutine.o: ..\hardware\adc.h
+.\objects\subroutine.o: ..\hardware\rtd.h
+.\objects\subroutine.o: ..\hardware\dac.h
+.\objects\subroutine.o: ..\hardware\digital_io.h
+.\objects\subroutine.o: ..\protocol\protocol.h
+.\objects\subroutine.o: ..\algorithm\pid.h
+.\objects\subroutine.o: ..\user\logic.h
+.\objects\subroutine.o: ..\hardware\systick_timer.h
+.\objects\subroutine.o: ..\hardware\timer.h
+.\objects\subroutine.o: ..\algorithm\algorithm.h
+.\objects\subroutine.o: ..\protocol\touchscreen.h
+.\objects\subroutine.o: ..\hardware\usart.h

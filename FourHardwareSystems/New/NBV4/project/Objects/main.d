@@ -1,0 +1,47 @@
+.\objects\main.o: ..\user\main.c
+.\objects\main.o: ..\user\config.h
+.\objects\main.o: ..\user\logic.h
+.\objects\main.o: ..\cm3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\main.o: ..\cm3\CoreSupport\core_cm3.h
+.\objects\main.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\cm3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\main.o: ..\cm3\DeviceSupport\ST\STM32F10x\stm32f10x_conf.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_adc.h
+.\objects\main.o: ..\cm3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_bkp.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_can.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_cec.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_crc.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_dac.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_dbgmcu.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_dma.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_exti.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_flash.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_fsmc.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_gpio.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_i2c.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_iwdg.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_pwr.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_rcc.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_rtc.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_sdio.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_spi.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_tim.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_usart.h
+.\objects\main.o: ..\libraries\inc\stm32f10x_wwdg.h
+.\objects\main.o: ..\libraries\inc\misc.h
+.\objects\main.o: ..\hardware\rtd.h
+.\objects\main.o: ..\hardware\ads1115.h
+.\objects\main.o: ..\hardware\systick_timer.h
+.\objects\main.o: ..\hardware\DAC8554.h
+.\objects\main.o: ..\hardware\MuxCfg.h
+.\objects\main.o: ..\hardware\Dio.h
+.\objects\main.o: ..\hardware\Pwm.h
+.\objects\main.o: ..\hardware\Globle.h
+.\objects\main.o: ..\hardware\stm32f10x_it.h
+.\objects\main.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: ..\user\modbus.h
+.\objects\main.o: ..\hardware\timer.h
+.\objects\main.o: ..\hardware\usart.h
+.\objects\main.o: ..\user\modbusNew.h

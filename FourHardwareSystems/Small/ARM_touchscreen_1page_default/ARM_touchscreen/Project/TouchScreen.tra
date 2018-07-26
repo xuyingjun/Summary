@@ -1,0 +1,37 @@
+*** Creating Trace Output File 'TouchScreen.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"stm32f10x_gpio.o"'
+### List of Objects: adding '"stm32f10x_rcc.o"'
+### List of Objects: adding '"stm32f10x_tim.o"'
+### List of Objects: adding '"stm32f10x_usart.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f10x_fsmc.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"stm32f10_gpio.o"'
+### List of Objects: adding '"stm32f10_timer.o"'
+### List of Objects: adding '"stm32f10_usart.o"'
+### List of Objects: adding '"stm32f10x_it.o"'
+### List of Objects: adding '"lcd.o"'
+### List of Objects: adding '"ui.o"'
+### List of Objects: adding '"touch.o"'
+### List of Objects: adding '"sys.o"'
+### List of Objects: adding '"dht11.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\startup_stm32f10x_hd.o" "stm32f10x_gpio.o" "stm32f10x_rcc.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "misc.o" "stm32f10x_fsmc.o" "core_cm3.o" "system_stm32f10x.o" "main.o" "stm32f10_gpio.o" "stm32f10_timer.o" "stm32f10_usart.o" "stm32f10x_it.o" "lcd.o" "ui.o" "touch.o" "sys.o" "dht11.o" --strict --scatter "TouchScreen.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TouchScreen.map" -o "TouchScreen.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'TouchScreen.axf'
+### ADS-LD Command File: 'TouchScreen.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'TouchScreen.lnp', Handle=0x00000538
+### Writing '.lnp' file
+### ADS-LD Command file 'TouchScreen.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

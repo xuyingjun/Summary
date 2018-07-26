@@ -1,0 +1,39 @@
+.\touch.o: ..\USER\touch.c
+.\touch.o: ..\USER\touch.h
+.\touch.o: ..\USER\stm32f10_timer.h
+.\touch.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\touch.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\touch.o: ..\CM3\CoreSupport\core_cm3.h
+.\touch.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\touch.o: ..\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\touch.o: ..\USER\stm32f10x_conf.h
+.\touch.o: ..\Libraries\inc\stm32f10x_adc.h
+.\touch.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\touch.o: ..\Libraries\inc\stm32f10x_bkp.h
+.\touch.o: ..\Libraries\inc\stm32f10x_can.h
+.\touch.o: ..\Libraries\inc\stm32f10x_cec.h
+.\touch.o: ..\Libraries\inc\stm32f10x_crc.h
+.\touch.o: ..\Libraries\inc\stm32f10x_dac.h
+.\touch.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+.\touch.o: ..\Libraries\inc\stm32f10x_dma.h
+.\touch.o: ..\Libraries\inc\stm32f10x_exti.h
+.\touch.o: ..\Libraries\inc\stm32f10x_flash.h
+.\touch.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\touch.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\touch.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\touch.o: ..\Libraries\inc\stm32f10x_iwdg.h
+.\touch.o: ..\Libraries\inc\stm32f10x_pwr.h
+.\touch.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\touch.o: ..\Libraries\inc\stm32f10x_rtc.h
+.\touch.o: ..\Libraries\inc\stm32f10x_sdio.h
+.\touch.o: ..\Libraries\inc\stm32f10x_spi.h
+.\touch.o: ..\Libraries\inc\stm32f10x_tim.h
+.\touch.o: ..\Libraries\inc\stm32f10x_usart.h
+.\touch.o: ..\Libraries\inc\stm32f10x_wwdg.h
+.\touch.o: ..\Libraries\inc\misc.h
+.\touch.o: ..\USER\LCD.h
+.\touch.o: ..\Libraries\inc\stm32f10x_config.h
+.\touch.o: ..\USER\stm32f10_usart.h
+.\touch.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\touch.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\touch.o: ..\USER\stm32f10_gpio.h
