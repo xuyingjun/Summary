@@ -1,0 +1,28 @@
+Dependencies for Project 'IMU_M3', Target 'imu_m3': (DO NOT MODIFY !)
+F (.\USER\main.c)(0x5B35D13C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\drive -I .\SYSTEM -I .\USER -I .\algrithm -I .\Math-IG:\IMU32\V1.7\RTE-IG:\IMU32\V1.7\RTE\Device\STM32F103TB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\RTE_Driver-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\SYSTEM\sys.h)(0x5B0E3F1D)
+F (.\algrithm\IMU_EKF.c)(0x5B35D13C)()
+F (.\Math\FastMath.c)(0x5B35D13C)()
+F (.\Math\Matrix.c)(0x5B35D13C)()
+F (.\Math\Quaternion.c)(0x5B35D13C)()
+F (.\drive\led.c)(0x5B35D13C)()
+F (.\drive\mpu9250.c)(0x5B35D13C)()
+F (.\drive\usart.c)(0x5B35D13C)()
+F (.\drive\EpRomData.c)(0x5B35D13C)()
+F (.\drive\timer.c)(0x5B35D13C)()
+F (.\drive\IOI2C.c)(0x5B35D13C)()
+F (.\SYSTEM\delay.c)(0x5B35D13C)()
+F (D:\software install\Keil\ARM\CMSIS\5.3.0\CMSIS\Lib\ARM\arm_cortexM3l_math.lib)(0x5A601928)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\misc.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_flash.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_i2c.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_tim.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9EB20)()
+F (D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\RTE_Driver\GPIO_STM32F10x.c)(0x571EF70A)()
+F (RTE\Device\STM32F103TB\RTE_Device.h)(0x5B35D13C)()
+F (RTE\Device\STM32F103TB\startup_config.h)(0x5B35D13C)()
+F (RTE\Device\STM32F103TB\startup_stm32f10x_md.s)(0x5B35D13C)()
+F (RTE\Device\STM32F103TB\stm32f10x_conf.h)(0x5B35D13C)()
+F (RTE\Device\STM32F103TB\system_stm32f10x.c)(0x5B35D13C)()
